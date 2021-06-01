@@ -1,0 +1,2 @@
+# AD5253_Python_Rasberry_Pi
+A fork from ncdcommunity / Raspberry_Pi_AD5252_2Channel_Digital_Potentiometer_Sensor_Python_library for AD5253
